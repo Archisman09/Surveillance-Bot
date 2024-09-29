@@ -1,4 +1,3 @@
-
 #include "esp_camera.h"
 #include <WiFi.h>
 
@@ -6,8 +5,8 @@
 //#define CAMERA_MODEL_M5STACK_PSRAM
 #define CAMERA_MODEL_AI_THINKER
 
-const char* ssid = "ArchiHot";   //Enter SSID WIFI Name
-const char* password = "09/06/2004";   //Enter WIFI Password
+const char* ssid = " ";   //Enter SSID WIFI Name
+const char* password = " ";   //Enter WIFI Password
 
 
 #if defined(CAMERA_MODEL_WROVER_KIT)
